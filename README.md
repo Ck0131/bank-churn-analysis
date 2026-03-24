@@ -7,7 +7,7 @@
 
 > *(Add your dashboard screenshot here — drag and drop the image into this section on GitHub)*
 
-![Bank Churn Dashboard](./dashboard_screenshot.png)
+![Bank Churn Dashboard]([./dashboard_screenshot.png](https://github.com/Ck0131/bank-churn-analysis/blob/main/dashboard.png))
 
 ---
 
