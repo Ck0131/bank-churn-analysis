@@ -7,7 +7,7 @@
 
 
 
-![Bank Churn Dashboard]((https://github.com/Ck0131/bank-churn-analysis/blob/main/dashboard.png))
+![Bank Churn Dashboard](https://github.com/Ck0131/bank-churn-analysis/blob/main/dashboard.png)
 
 ---
 
