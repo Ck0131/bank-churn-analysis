@@ -58,7 +58,7 @@ This project analyzes **bank customer churn** using Power BI to understand why c
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/YOUR_USERNAME/bank-churn-analysis.git
+   [git clone https://github.com/Ck0131/bank-churn-analysis.git]
    ```
 2. Open `Bank_Customer_Churn.pbix` in **Power BI Desktop**
 3. Explore the ANALYSIS tab for the full dashboard
@@ -68,7 +68,7 @@ This project analyzes **bank customer churn** using Power BI to understand why c
 ## 👨‍💻 Author
 
 **Chandru S**  
-📧 Connect with me on [LinkedIn](https://linkedin.com/in/your-profile)  
+📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/chandru-s-1b21bb228/)  
 🐙 [GitHub](https://github.com/your-username)
 
 ---
